@@ -1,1 +1,1 @@
-This is my newline.txt
+This is my modified newline.txt
