@@ -1,1 +1,13 @@
 This is my modified newline.txt
+
+My Answer for "Question 2. Your answer for What is the difference between add, commit, and push?" are as follow:
+
+Given that we are having a local git repository, 
+for any new changes, such as adding, deleting or modifying any files inside that git repository, 
+"add" helps to include these changes (or maybe part of the changes, depending on what changes you choose to "add") for the next commit.
+
+After including these changes by "add", we save these changes using "commit" with our commit message.
+
+Up to this step, we are only modifying the local git repository.
+To also update the commited changes to remote, we have to use "push" command to push them to remote.
+We may specify what branch we are going to push our commited changes to.
